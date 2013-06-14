@@ -1,4 +1,14 @@
-com.forumDeveloper1.imagineBB
+Imagine BB
 =============================
 
-ImagineBB Code Repo.
+Welcome to The ImagineBB Code Repository.
+
+Developers:
+Funpanda
+Funelephant
+
+Possible Contributors:
+
+None
+
+Beta Testers:
